@@ -3,7 +3,7 @@
 * 2022 Winter 
 * README
 *********************************************************************************/ 
-A simple calculator which computes a few operations based on a given input file.
+A simple calculator which computes a few operations based on a given input file uisng arrays and pointers.
 
 Design.md - documenation of thoughts and ideas behind solution
 num_arrays.h - function declarations 
