@@ -1,0 +1,13 @@
+/*********************************************************************************
+* Michael Takami, mtakami 
+* 2022 Winter 
+* README
+*********************************************************************************/ 
+A simple calculator which computes a few operations based on a given input file.
+
+Design.md - documenation of thoughs and ideas behind solution
+num_arrays.h - function declarations 
+num_arrays.c - array calculator function implementations
+hw2.c - main client file, takes a given input file and computes a few arithmetic operations on the numbers and outputs the results
+Makefile - compiles and creates executable
+README - this file!
