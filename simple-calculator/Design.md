@@ -1,4 +1,4 @@
-###DESIGN.md by Michael Takami
+### DESIGN.md by Michael Takami
 
 ## Some notes on pointers
 -Pointers: special variables that store(point) to addresses rather than values
