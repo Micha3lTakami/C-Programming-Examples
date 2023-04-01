@@ -8,9 +8,9 @@ sorts the input file lexicographically and prints the result into the output fil
 based on a linked list ADT(abstract data type) implementation - a bi-directional 
 queue which utilizes a cursor for traversal
 
-List.h-header file containing declarations
-List.c-List ADT file
-ListTest.c-program to test the List ADT functions
-Lex.c-main program that indirectly sorts file 
-Makefile-make file provided from class website
-README-this file!
+List.h - header file containing declarations
+List.c - List ADT file
+ListTest.c - program to test the List ADT functions
+Lex.c  - main program that indirectly sorts file(sorts using word's index) 
+Makefile - compiles and creates exectuable
+README - this file!
