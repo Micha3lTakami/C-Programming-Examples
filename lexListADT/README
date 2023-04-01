@@ -10,7 +10,7 @@ queue which utilizes a cursor for traversal
 
 List.h - header file containing declarations
 List.c - List ADT file
-ListTest.c - program to test the List ADT functions
+ListTest.c - personal test client for List ADT functions
 Lex.c  - main program that indirectly sorts file(sorts using word's index) 
 Makefile - compiles and creates exectuable
 README - this file!
