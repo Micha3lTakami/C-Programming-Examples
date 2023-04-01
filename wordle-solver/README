@@ -4,4 +4,12 @@
 * README
 *********************************************************************************/ 
 A follow up to the previous 'wordle' project, this program plays wordle based on 
-an unknown secret word or a specified word.
+a random "secret word" or a specified "secret word".
+
+DESIGN.md - documenation of thoughts and ideas behind solution
+Makefile - compiles solver and creates executable
+search_util.h - solver function and struct declarations 
+search_util.c - implementation of solver functions
+solver.c - main driver for wordle solver
+demo_functions.c - personal test client to debug solver functions
+README - this file!
