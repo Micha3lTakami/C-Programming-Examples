@@ -3,12 +3,15 @@
 * 2022 Winter
 * README
 *********************************************************************************/ 
-a simple "Reverse Polish Notation" calculator which reads in a series of numbers and operations from a text
-file to perform some computation, making use of a stack data structure to do said computation.
+a simple "Reverse Polish Notation" calculator which reads in a series of numbers 
+and operations from a text file to perform some computation, making use of a 
+stack data structure to do said computation.
 
 DESIGN.md - documenation of thoughts and ideas behind implementation 
 stack_calculator.h - struct and function declarations 
 stack_calculator.c - reverse polish notation calculator's function implementations
 hw3.c - main client file which performs RPN operations based on the given input's text file
 Makefile - compiles and creates exectuable
+input.txt - sample input
+README - this file!
 
