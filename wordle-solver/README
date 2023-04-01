@@ -3,3 +3,5 @@
 * 2022 Winter 
 * README
 *********************************************************************************/ 
+A follow up to the previous 'wordle' project, this program plays wordle based on 
+an unknown secret word or a specified word.
