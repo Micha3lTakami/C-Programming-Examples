@@ -1,0 +1,28 @@
+/*********************************************************************************
+* Michael Takami, mtakami 
+* 2023 Winter CSE101 PA#3 
+* README
+* file table of contents
+*********************************************************************************/ 
+Using a graph ADT(which is built on the previously made List ADT) performs a DFS 
+on the graph given in the input file in order to determine the strongly connected 
+components which are then output into a text file.
+
+List.h - header file containing List declarations
+
+List.c - List ADT implementation
+
+Graph.c - Graph ADT implementation 
+
+Graph.h - Graph ADT header file containing function declarations and structs
+
+GraphTest.c - isolated tests utilizing graph ADT to test DFS
+NOTE: time is treated as a local static variable and is thus passed by reference 
+to visit()
+
+FindComponents.c - finds the strongly connected components based on the graph in
+the input file
+
+Makefile - compiles and creates executable
+
+README - this file!
