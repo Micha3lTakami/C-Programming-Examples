@@ -1,0 +1,11 @@
+chael Takami, mtakami 
+* 2023 Winter CSE101 PA#1 
+* README
+* file table of contents
+*********************************************************************************/ 
+List.h-header file containing declarations
+List.c-List ADT file
+ListTest.c-program to test the List ADT functions
+Lex.c-main program that indirectly sorts file 
+Makefile-make file provided from class website
+README-this file!
