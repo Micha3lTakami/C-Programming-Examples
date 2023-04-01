@@ -1,1 +1,18 @@
-yuh
+
+/*********************************************************************************
+* Michael Takami, mtakami 
+* 2022 Winter
+* README
+* file table of contents
+*********************************************************************************/ 
+A simple string version of the popular New York Time's word game, Wordle. 
+The client gets 5 guesses to figure out the word, with each guess giving them a 
+result character by character in the form of a color - green meaning the character 
+is in the word and the correct spot yellow meaning the character is in the word, 
+but not the correct spot, and grey for the character not being in the word at all.
+
+DESIGN.md - documenationn of my thought process before/while creating implementation
+hw5.c - complete implementation of wordle(contains main)
+Makefile - used to compile and create executable
+vocabulary.txt - text file containing word bank
+README - this file!
